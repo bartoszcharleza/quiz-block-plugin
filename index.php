@@ -5,7 +5,6 @@
   Description: Give your readers a multiple choice question
   Version: 1.0
   Author: Bartek
-  Author URI: https://www.udemy.com/user/bradschiff/
 */
 
 // Exit if accessed directly
