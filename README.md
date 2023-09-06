@@ -1,9 +1,9 @@
 # quiz-block-plugin
 
-#Description
+# Description
 A WordPress plugin that adds a simple multiple-choice quiz block to the Gutenberg editor. Great for engaging readers.
 
-#Features
+# Features
 Add questions
 Multiple-choice options
 Instant feedback
